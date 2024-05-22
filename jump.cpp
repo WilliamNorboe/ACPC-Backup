@@ -6,6 +6,7 @@
 
 int main() {
     int num_bridges;
+    int test;
     std::string str = "";
     std::getline(std::cin, str);
     std::stringstream stringStream(str);
